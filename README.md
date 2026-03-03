@@ -9,7 +9,7 @@ This project utilizes Power BI to analyze the relationship between social media 
 ## 📊 Dashboard Preview
 
 ![Overview Page](dashboard_overview_page.png)
-![Happiness Index Page](dashboard_happines_index_page.png)
+![Happiness Index Page](dashboard_happiness_index_page.png)
 
 - Overview Page: Displays high-level metrics including Average Happiness Index (8.38), Average Sleep Quality (6.30), and Average Stress Level (6.62).
 - Happiness Index Insights: Deep dives into how stress and exercise frequency impact overall happiness scores across different age groups.
