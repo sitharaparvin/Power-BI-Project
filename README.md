@@ -8,13 +8,11 @@ This project utilizes Power BI to analyze the relationship between social media 
 
 ## 📂 Dashboard Features
 
-```
 - Overview Page: Displays high-level metrics including Average Happiness Index (8.38), Average Sleep Quality (6.30), and Average Stress Level (6.62).
 - Happiness Index Insights: Deep dives into how stress and exercise frequency impact overall happiness scores across different age groups.
 - Platform Usage: Analyzes user distribution across major platforms like TikTok, X (Twitter), and LinkedIn.
 - Conclusion & Recommendations: Summarizes findings and suggests actions like encouraging digital breaks and promoting stress-relief content.
 
-```
 ---
 
 ## 🛠️ Tools & Technologies
